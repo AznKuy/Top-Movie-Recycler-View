@@ -1,0 +1,100 @@
+<resources>
+    <string name="app_name">CatalogMovie</string>
+
+    <string name="movies_name">Nama Movie</string>
+    <string name="movies_description">Deskripsi Movie"</string>
+    <string name="movies_rate">Movie Rate</string>
+    <string name="movies_year">Movie Year</string>
+    <string name="movies_duration">Movie Duration</string>
+
+
+    <string-array name="data_title">
+        <item>The Shawshank Redemption (1994)</item>
+        <item>The Godfather (1972)</item>
+        <item>The Dark Knight (2008)</item>
+        <item>The Godfather: Part II (1974)</item>
+        <item>12 Angry Men (1957)</item>
+        <item>Schindlers List (1993)</item>
+        <item>Pulp Fiction (1994)</item>
+        <item>The Lord of the Rings: The Return of the King (2003)</item>
+        <item>The Good, the Bad and the Ugly (1966)</item>
+        <item>Fight Club (1999)</item>
+        <item>The Lord of the Rings: The Fellowship of the Ring (2001)</item>
+        <item>Forrest Gump (1994)</item>
+    </string-array>
+
+    <integer-array name="data_years">
+        <item>1994</item>
+        <item>1972</item>
+        <item>2008</item>
+        <item>1974</item>
+        <item>1957</item>
+        <item>1993</item>
+        <item>1994</item>
+        <item>2003</item>
+        <item>1996</item>
+        <item>1999</item>
+        <item>2001</item>
+        <item>1994</item>
+    </integer-array>
+
+    <string-array name="data_duration">
+        <item>2h 22m</item>
+        <item>2h 55m</item>
+        <item>2h 32m</item>
+        <item>3h 22m</item>
+        <item>1h 36m</item>
+        <item>3h 15m</item>
+        <item>3h 21m</item>
+        <item>2h 34m</item>
+        <item>2h 58m</item>
+        <item>2h 58m</item>
+        <item>2h 22m</item>
+        <item>2h 19m</item>
+    </string-array>
+
+    <string-array name="data_description">
+        <item>Andy Dufresne, seorang bankir, dipenjara seumur hidup di Shawshank atas pembunuhan yang tidak dilakukannya. Di tengah kerasnya kehidupan penjara, ia berteman dengan Red dan menggunakan kecerdasan serta ketekunannya untuk bertahan, mencari harapan, dan merencanakan pelarian yang berani demi kebebasan dan membersihkan namanya. </item>
+        <item>Don Vito Corleone, kepala keluarga Mafia yang berkuasa, menolak untuk terlibat dalam bisnis narkoba yang sedang berkembang. Penolakannya memicu perang antar keluarga mafia, memaksa anak bungsunya yang enggan, Michael, untuk masuk ke dunia kekerasan dan mengambil alih kendali keluarga demi melindungi mereka.</item>
+        <item>Batman, bersama Letnan James Gordon dan Jaksa Wilayah Harvey Dent, berusaha menghancurkan kejahatan terorganisir di Gotham. Namun, rencana mereka digagalkan oleh Joker, seorang penjahat kejam dan anarkis yang menebar teror dan kekacauan di kota. Batman harus menghadapi dilema moral yang sulit saat ia berjuang untuk menghentikan Joker dan menyelamatkan Gotham dari kehancuran. </item>
+        <item>The Godfather: Part II menjalin dua alur cerita. Yang pertama mengikuti Michael Corleone, penerus ayahnya sebagai Don, saat ia memperluas dan memperkuat kekuasaan keluarga Corleone dengan kekejaman yang dingin. Alur kedua mengisahkan masa muda Vito Corleone, menunjukkan bagaimana ia membangun kerajaan kriminalnya dari awal di Sisilia dan New York</item>
+        <item>Dua belas juri harus memutuskan nasib seorang pemuda yang dituduh membunuh ayahnya. Awalnya, sebelas juri yakin akan kesalahan terdakwa, tetapi satu juri ragu-ragu dan memaksa mereka untuk memeriksa kembali bukti-bukti dan prasangka mereka sendiri.</item>
+        <item>Di tengah kekejaman Holocaust, Oskar Schindler, seorang pengusaha Jerman yang awalnya oportunis, secara bertahap tersentuh oleh penderitaan orang-orang Yahudi. Ia mempertaruhkan segalanya untuk menyelamatkan lebih dari seribu pekerja Yahudi dari kamp konsentrasi Nazi dengan mempekerjakan mereka di pabriknya.</item>
+        <item>Pulp Fiction mengisahkan serangkaian cerita yang saling terkait tentang gangster, petinju, dan pasangan kriminal di Los Angeles. Dengan alur cerita non-linear dan dialog yang ikonik, film ini mengeksplorasi tema-tema kekerasan, penebusan, dan kebetulan yang aneh.</item>
+        <item>Pasukan gabungan manusia, elf, dan dwarf bersiap untuk pertempuran terakhir melawan Sauron dan pasukan kegelapannya. Sementara itu, Frodo dan Sam, dengan bantuan Gollum, melanjutkan perjalanan berbahaya mereka ke Mordor untuk menghancurkan Cincin Utama dan mengakhiri kekuasaan Sauron selamanya</item>
+        <item>Di tengah kekacauan Perang Sipil Amerika, tiga penembak jitu—Blondie ("Si Baik"), Angel Eyes ("Si Buruk"), dan Tuco ("Si Jelek")—membentuk aliansi yang tidak mudah untuk mencari harta karun emas Konfederasi yang terkubur. Mereka saling mengkhianati dan mengejar satu sama lain melintasi lanskap Barat yang luas, terlibat dalam baku tembak yang ikonik dan permainan pikiran yang menegangkan.</item>
+        <item>Seorang pria insomnia dan tidak puas dengan kehidupan konsumerismenya bertemu dengan Tyler Durden, seorang penjual sabun karismatik dengan filosofi nihilis. Bersama, mereka membentuk "Fight Club," sebuah perkumpulan bawah tanah rahasia di mana pria-pria dapat melepaskan agresi mereka melalui perkelahian tanpa aturan. Namun, Fight Club segera berubah menjadi gerakan revolusioner yang mengancam untuk menghancurkan tatanan sosial. </item>
+        <item>Frodo Baggins, seorang hobbit muda, mewarisi Cincin Utama, artefak kuat yang diciptakan oleh Pangeran Kegelapan Sauron. Untuk mencegah Sauron menaklukkan Middle-earth, Frodo dan delapan rekannya membentuk Fellowship of the Ring dan memulai perjalanan berbahaya ke Mordor, satu-satunya tempat di mana Cincin itu dapat dihancurkan.</item>
+        <item>Forrest Gump, seorang pria dengan IQ rendah tetapi berhati emas, tanpa sengaja menyaksikan dan memengaruhi beberapa peristiwa paling penting dalam sejarah Amerika abad ke-20. Melalui serangkaian pertemuan yang luar biasa, ia bertemu dengan tokoh-tokoh bersejarah, memengaruhi budaya populer, dan menemukan cinta dan kehilangan.</item>
+    </string-array>
+
+    <string-array name="data_rate">
+        <item>9.8</item>
+        <item>9.7</item>
+        <item>9.6</item>
+        <item>9.5</item>
+        <item>9.4</item>
+        <item>9.3</item>
+        <item>9.2</item>
+        <item>9.1</item>
+        <item>9.0</item>
+        <item>8.8</item>
+        <item>8.6</item>
+        <item>8.4</item>
+    </string-array>
+
+    <integer-array name="data_cover">
+        <item>@drawable/top1</item>
+        <item>@drawable/top2</item>
+        <item>@drawable/top3</item>
+        <item>@drawable/top4</item>
+        <item>@drawable/top5</item>
+        <item>@drawable/top6</item>
+        <item>@drawable/top7</item>
+        <item>@drawable/top8</item>
+        <item>@drawable/top9</item>
+        <item>@drawable/top10</item>
+        <item>@drawable/top11</item>
+        <item>@drawable/top12</item>
+    </integer-array>
+</resources>
