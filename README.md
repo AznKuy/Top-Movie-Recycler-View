@@ -1,5 +1,7 @@
 # Top-Movie-Recycler-View
 Aplikasi ini merupakan Submission dari course Belajar Membuat Aplikasi Android untuk Pemula dicoding
+# Screen Shot
+![ScreenShot](images/logo.png)
 # Fitur
 Menampilkan daftar film terbaik menggunakan RecyclerView
 Detail informasi film termasuk judul, deskripsi, dan poster
